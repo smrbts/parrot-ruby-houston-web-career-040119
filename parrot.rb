@@ -1,5 +1,6 @@
 def parrot(string = "Squawk!")
   "#{string}"
+  return
 end
 
 
